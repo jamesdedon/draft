@@ -2,6 +2,8 @@
 
 A minimal, distraction-free Markdown writing app for Linux (GTK4 + Python).
 
+![draft in the light theme: a single line of text in a centred column under a faint formatting toolbar](docs/screenshot.png)
+
 Documents are plain `.md` files in `~/Writing`. You write in a clean, formatted
 view: type `**bold**`, `*italic*`, `# heading`, `> quote`, `- list` and the
 markers vanish once the span is complete, reappearing when the cursor is back
