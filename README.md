@@ -59,3 +59,7 @@ bindsym $mod+n exec draft
 
 Settings are remembered in `~/.local/state/draft/state.json`. Set `DRAFT_DIR` to
 keep documents somewhere other than `~/Writing`.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
